@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Disable No Internal Friction"
+title = "Disable Internal Friction"
 theme = "PaperMod"
 paginate = 10
 enableRobotsTXT = true
@@ -34,7 +34,7 @@ defaultContentLanguageInSubdir = false
   tocopen = false
 
   [params.homeInfoParams]
-    Title = "Disable No Internal Friction"
+    Title = "Disable Internal Friction"
     Content = "A blog about overcoming internal resistance and living with intention."
 
   [params.assets]
