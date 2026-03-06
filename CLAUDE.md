@@ -6,7 +6,7 @@ I will give you a topic / article for you to elaborate.
 
 Hugo multilingual site. Articles go in:
 - `content/en/posts/<slug>.md` — English
-- `content/zh/posts/<slug>.md` — Chinese
+- `content/zh/posts/<slug>.md` — Traditional Chinese
 
 Use a concise kebab-case slug (e.g. `challenge-not-drain`).
 

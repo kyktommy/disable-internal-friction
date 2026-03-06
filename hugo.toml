@@ -33,10 +33,6 @@ defaultContentLanguageInSubdir = false
   showtoc = true
   tocopen = false
 
-  [params.homeInfoParams]
-    Title = "Disable Internal Friction"
-    Content = "A blog about overcoming internal resistance and living with intention."
-
   [params.assets]
     disableHLJS = true
 
@@ -47,23 +43,14 @@ defaultContentLanguageInSubdir = false
     contentDir = "content/en"
     [languages.en.params]
       description = "A blog about overcoming internal resistance and living with intention."
-    [[languages.en.menu.main]]
-      identifier = "posts"
-      name = "Posts"
-      url = "/posts/"
-      weight = 10
 
   [languages.zh]
     languageName = "中文"
+    title = "消除內耗"
     weight = 2
     contentDir = "content/zh"
     [languages.zh.params]
       description = "一個關於消除內耗、活得更有意圖的部落格。"
-    [[languages.zh.menu.main]]
-      identifier = "posts"
-      name = "文章"
-      url = "/posts/"
-      weight = 10
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
