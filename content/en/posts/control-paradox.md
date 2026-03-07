@@ -54,6 +54,16 @@ What you don't need to own: every step of the process, being the one people rout
 
 When someone bypasses you on execution and gets it done well, that's the system working. The question becomes: did they get it *right*? If yes, let it land as a win. If no, *that's* when your input matters — not to re-insert yourself, but to correct the direction.
 
+## What Adlerian Psychology Says
+
+Adler observed that many people's need for control is a form of compensation — a way of making up for a deeper feeling of not being important enough. When control becomes part of identity, losing it does not feel like losing a task. It feels like losing yourself. This is why someone who freely admits to managing badly still cannot let go.
+
+Adler also introduced the separation of tasks: each person is only responsible for their own tasks. Control over execution usually belongs to the person doing the executing, not to you. Forcing yourself into someone else's task does not produce better outcomes — it produces friction, for everyone involved.
+
+More fundamentally, Adler believed all behavior is purposeful. The purpose of clinging to control may be to avoid a harder question: if I am not the person others route through, where is my value? That question is more difficult than any management technique — and it is also the only one worth honestly asking.
+
+---
+
 ## The Uncomfortable Middle
 
 None of this resolves quickly. For a while, you'll still feel the twinge when you're bypassed. That's okay. The feeling is information.

@@ -63,6 +63,16 @@ Focus is a skill, not a talent. It can be practiced, and the methods are simpler
 
 ---
 
+## What Adlerian Psychology Says
+
+Adler argued that all human suffering stems from interpersonal relationships — and one of the most hidden forms is our tendency to take on tasks that belong to other people. How many of the thoughts occupying your mental bandwidth right now are not actually yours? Whether someone is satisfied with your reply, how others judge your work, whether your choices will be criticized — these are other people's tasks, not yours. Carrying them in your mind is an invisible source of internal friction.
+
+Adler also held that all human behavior is purposeful. Distraction is not merely a failure of willpower — it is purposeful avoidance. When your brain pulls you toward your phone, your inbox, or an unrelated chain of thought, the purpose is often the same: avoid the fear of doing it badly. Distraction temporarily shields you from having to face any outcome.
+
+Understanding this is not about self-blame. It is about clarity. The next time you catch yourself drifting, instead of criticizing yourself, ask: what am I avoiding? When you can answer that honestly, you have a real chance of returning to the thing in front of you.
+
+---
+
 ## Focus Is a Form of Self-Care
 
 We often believe that having many things to handle means we must think about many things at once to be responsible. The truth is the opposite: thinking about many things at once only makes each one worse and makes you more tired.

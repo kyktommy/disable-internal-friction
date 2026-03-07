@@ -67,6 +67,18 @@ A few ways to make it concrete:
 
 ---
 
+## What Adlerian Psychology Says
+
+Adler believed that all human behavior is purposeful — including the behavior that keeps you stuck. When you label something a burden and stall on it, that is not simply passivity. It serves a function: as long as you have not started, you cannot fail. Resistance and avoidance are a form of self-protection.
+
+This has nothing to do with willpower. Adler would say the real issue is how you respond to the fear of failure and the threat to your sense of worth. When you tell yourself "I hate this," you are giving yourself permission not to try.
+
+Adler also emphasized the separation of tasks: each person is only responsible for their own tasks, and how you respond to what is in front of you is always your task — regardless of whether the situation is fair or difficult. Whether something is fair is not your task. How you meet it is.
+
+Reframing something as a challenge is not just a mental trick. It is a choice — choosing to place yourself in an active position and take responsibility for how you respond.
+
+---
+
 ## The Deeper Reason This Matters
 
 Internal friction is cumulative. A day spent resisting things is exhausting in a way that a day of hard work is not. The exhaustion from resistance is hollow — it produces nothing and leaves you with less.
