@@ -1,5 +1,5 @@
 ---
-title: "I Know I Manage Badly. So Why Does It Feel Wrong When Someone Else Does It?"
+title: "I Blame Myself for Managing Badly — and Still Hate Being Bypassed"
 date: 2026-03-06
 description: "The paradox of wanting control you're not actually using well."
 tags: ["control", "management", "self-awareness", "internal friction"]
