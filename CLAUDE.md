@@ -25,7 +25,7 @@ showToc: true
 
 ## Article content guidelines
 
-Refine the provided topic title.
+Refine the provided topic into a compelling article title — make it specific, evocative, and aligned with the blog's theme of disabling internal friction. Use the refined title in the front matter.
 
 Each article should include an **阿德勒心理學 / Adlerian Psychology** section that connects the article's theme to Adlerian concepts (e.g., separation of tasks, teleological behavior, courage to be imperfect, social interest, lifestyle). The section heading:
 - zh: `## 阿德勒心理學怎麼說`
