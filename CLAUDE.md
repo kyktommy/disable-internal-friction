@@ -27,9 +27,19 @@ showToc: true
 
 Refine the provided topic into a compelling article title — make it specific, evocative, and aligned with the blog's theme of disabling internal friction. Use the refined title in the front matter.
 
-Each article should include an **阿德勒心理學 / Adlerian Psychology** section that connects the article's theme to Adlerian concepts (e.g., separation of tasks, teleological behavior, courage to be imperfect, social interest, lifestyle). The section heading:
+Each article must include three perspective sections, placed in this order after the main body:
+
+**1. 阿德勒心理學 / Adlerian Psychology** — connects the article's theme to Adlerian concepts (e.g., separation of tasks, teleological behavior, courage to be imperfect, social interest, lifestyle).
 - zh: `## 阿德勒心理學怎麼說`
 - en: `## What Adlerian Psychology Says`
+
+**2. 金剛經／心經 / Diamond Sutra & Heart Sutra** — connects the article's theme to Buddhist concepts from these two texts (e.g., 無所住、色即是空、心無罣礙、無所得、三心不可得、不住相).
+- zh: `## 金剛經／心經怎麼說`
+- en: `## What the Diamond Sutra and Heart Sutra Say`
+
+**3. 易經 / I Ching** — connects the article's theme to a relevant hexagram and its Confucian commentary (彖傳／象傳). Choose the hexagram that best maps to the article's core dynamic.
+- zh: `## 易經怎麼說`
+- en: `## What the I Ching Says`
 
 ## Stack
 

@@ -73,6 +73,18 @@ Understanding this is not about self-blame. It is about clarity. The next time y
 
 ---
 
+## What the Diamond Sutra and Heart Sutra Say
+
+The Heart Sutra describes the liberated mind as one *"free from all inverted views"* — delusion, dream, confusion. Multitasking is exactly an inverted view: it believes that fragmenting attention is a form of control, when it is in fact a form of loss. The Diamond Sutra's instruction — *"give rise to a mind that dwells nowhere"* — has a precise practical meaning: do not let your mind get stuck on what is not here. The email not yet written, the conversation not yet had, the outcome not yet known — none of these are here. They are not yours to hold right now. The only task is the one in front of you.
+
+---
+
+## What the I Ching Says
+
+Hexagram Gèn (艮, Keeping Still, Hexagram 52) is the hexagram of focused attention. Its image — the mountain at rest — is not passivity. It is the concentrated stillness of something that has completely gathered itself. *"Keeping his back still, he is no longer aware of his body. He goes into the courtyard and does not see the people. No blame."* The courtyard, the people, the surrounding noise — all present, but none claiming his attention. This is not detachment. This is single-pointed presence. Not emptiness, but complete gathering. That is what focus looks like.
+
+---
+
 ## Focus Is a Form of Self-Care
 
 We often believe that having many things to handle means we must think about many things at once to be responsible. The truth is the opposite: thinking about many things at once only makes each one worse and makes you more tired.

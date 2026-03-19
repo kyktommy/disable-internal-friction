@@ -112,6 +112,18 @@ The trap of idleness is believing that thinking equals doing. You've thought ple
 
 ---
 
+## What the Diamond Sutra and Heart Sutra Say
+
+The Heart Sutra's teaching — *form is emptiness, emptiness is form* — applies in an unexpected way here. The "doing nothing" state appears to be empty of content, but in reality it is full: full of unprocessed worry, silent self-judgment, and the low hum of avoidance. What appears restful is not. The solution is not to fill time with busyness, but to find what Zen calls *presence* — mindful engagement with what is here, right now. The Diamond Sutra teaches *no dwelling*: even in stillness, do not let the mind settle into the swamp of passive drift. True stillness is alert. Fake rest is just concealed agitation.
+
+---
+
+## What the I Ching Says
+
+Hexagram Gèn (艮, Keeping Still, Hexagram 52) is the image of the mountain — the supreme form of stillness. But the Confucian commentary is precise: stillness must be *intentional*. *"Keeping his back still so that he no longer feels his body."* This is conscious rest — chosen, complete, present. It is very different from the restlessness of idleness. Hexagram Fù (復, Return, Hexagram 24) describes the turning point — one yang line rising from the bottom of the earth. The return from emptiness to action need not be dramatic. It just needs to be deliberate. One small step, consciously chosen, is the yang line. That is enough.
+
+---
+
 Doing nothing isn't peace. It's a silent drain.
 
 Real rest is something you actively choose.

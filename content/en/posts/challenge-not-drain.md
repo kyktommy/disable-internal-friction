@@ -79,6 +79,18 @@ Reframing something as a challenge is not just a mental trick. It is a choice �
 
 ---
 
+## What the Diamond Sutra and Heart Sutra Say
+
+The Heart Sutra teaches that the liberated mind is *"free from all obstruction, and because free from obstruction, fearless."* When you label something a burden, you are creating an obstruction in your own mind — clinging to the idea that "this should not be." The Diamond Sutra goes further: *"Give rise to a mind that dwells nowhere."* Your resistance to the present situation is the mind dwelling — in expectation, in indignation, in the wish that things were otherwise. The challenge frame is not a trick; it is the practice of releasing that dwelling. Meet the situation as it is, without the mind sticking to what it insists it should not have to be.
+
+---
+
+## What the I Ching Says
+
+Hexagram Suí (隨, Following, Hexagram 17) speaks directly to this. Following is not passivity — it is the intelligence to move *with* what is, rather than against it. The commentary says: *"In following there is great success."* The one who can follow the moment — accept its reality, meet it without resistance — is the one who can actually lead it forward. Your situation is given. You are the one deciding what to do with it. Stop spending energy fighting the shore. Let the energy move.
+
+---
+
 ## The Deeper Reason This Matters
 
 Internal friction is cumulative. A day spent resisting things is exhausting in a way that a day of hard work is not. The exhaustion from resistance is hollow — it produces nothing and leaves you with less.

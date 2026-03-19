@@ -64,6 +64,18 @@ More fundamentally, Adler believed all behavior is purposeful. The purpose of cl
 
 ---
 
+## What the Diamond Sutra and Heart Sutra Say
+
+The Diamond Sutra instructs: *"A Bodhisattva should have no attachment to self, no attachment to others."* The need for control that has become identity is precisely this — attachment to self-concept: "I am the one who must be consulted, the one who must be in the loop." This is not a management preference; it is a view of self that the Diamond Sutra invites you to question. The Heart Sutra's teaching of *no obstruction* begins with releasing the fixed idea of who you must be. When you cling to control as identity, the very thing you are trying to protect — your sense of relevance — is what your clinging erodes.
+
+---
+
+## What the I Ching Says
+
+Hexagram Sǔn (損, Decrease, Hexagram 41) addresses exactly this dynamic. Decrease does not mean losing value — it means reducing what is excessive so that the essential can grow stronger. *"Decrease combined with sincerity brings great good fortune without blame."* What you release from compulsive control does not disappear; it frees up what actually matters: direction, judgment, intention. Hexagram Qiān (謙, Humility, Hexagram 15) follows: the mountain beneath the earth — true capability concealed, not asserted. Influence is not won by occupying every gate. It is earned by being right about what matters most.
+
+---
+
 ## The Uncomfortable Middle
 
 None of this resolves quickly. For a while, you'll still feel the twinge when you're bypassed. That's okay. The feeling is information.

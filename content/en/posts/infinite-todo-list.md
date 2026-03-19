@@ -121,6 +121,18 @@ If you can answer that question, the day was a success — no matter how many bo
 
 ---
 
+## What the Diamond Sutra and Heart Sutra Say
+
+The Diamond Sutra's most striking psychological teaching may be this: *"The mind of the past cannot be grasped. The mind of the present cannot be grasped. The mind of the future cannot be grasped."* The anxiety of the unfinished to-do list is the attempt to grasp the future — to hold the whole river in your hands before it flows. You cannot. No one can. The Heart Sutra teaches *no attainment* — there is nothing to be finally, completely obtained. This is not resignation. It is freedom. When you release the fantasy of the empty list, you are practicing what the Diamond Sutra calls *non-dwelling*: today's action does not need to complete something in order to matter.
+
+---
+
+## What the I Ching Says
+
+Hexagram Jǐng (井, The Well, Hexagram 48) is the inexhaustible source. The well is always full; you draw from it, you do not drain it. Your to-do list is the same. *"The well sustains — and is not exhausted."* This is the correct frame: not a problem to be solved, but a well to be drawn from daily. Hexagram Tài (泰, Peace, Hexagram 11) reminds us that the small and the great can coexist without conflict. You do not need to finish everything for the day to have been successful. The well does not need to be empty for the water to have been worth drawing.
+
+---
+
 Your to-do list will never be done.
 
 This isn't a sentence of despair. It's a sentence of freedom.

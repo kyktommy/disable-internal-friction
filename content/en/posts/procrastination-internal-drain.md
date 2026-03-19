@@ -115,6 +115,18 @@ You don't need to be ready to begin. You just need to be brave enough to take th
 
 ---
 
+## What the Diamond Sutra and Heart Sutra Say
+
+The Diamond Sutra contains one of the most arresting lines in Buddhist literature: *"The mind of the past cannot be grasped. The mind of the present cannot be grasped. The mind of the future cannot be grasped."* Procrastination is precisely the attempt to grasp the future mind — "the version of me that will finally be ready, that will finally know how to do this perfectly." That version of you does not exist and cannot be grasped. What exists is only this moment, this task, this imperfect capability. The Heart Sutra teaches that form is emptiness: the fearful future you are protecting yourself from is, itself, empty — it has no substance until you give it one by continuing to flee from it.
+
+---
+
+## What the I Ching Says
+
+Hexagram Yù (豫, Enthusiasm / Readiness, Hexagram 16) cautions against excessive hesitation masquerading as preparation. The image is thunder rising from the earth — potential waiting to burst forth. But the hexagram warns: prolonged inaction wastes the readiness within. Hexagram Zhèn (震, Thunder, Hexagram 51) reminds us that the shock of beginning is always startling, but the one who moves through the initial jolt discovers that what terrified them from a distance is manageable up close. *"The thunder comes — startling, startling. Then laughing words — ha ha."* Start before you feel ready. The thunder sounds frightening from far away. Step into it.
+
+---
+
 Procrastination isn't a character flaw. It's a coping strategy you learned.
 
 And what was learned can be unlearned.
