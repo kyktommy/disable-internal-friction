@@ -132,3 +132,7 @@ Procrastination isn't a character flaw. It's a coping strategy you learned.
 And what was learned can be unlearned.
 
 Starting from this moment, right now.
+
+## Try This
+
+Pick the one task you've been avoiding longest. Set a timer for 10 minutes and begin — not to finish, just to start. Notice what the internal drain felt like before you started, versus after.

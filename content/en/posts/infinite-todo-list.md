@@ -141,3 +141,7 @@ When you stop chasing the finish line, you can focus on each step.
 When you accept you'll never be done, you can finally begin.
 
 You don't need to finish everything today. Just do one thing well — that's enough.
+
+## Try This
+
+Open your to-do list right now and cross off everything that doesn't genuinely need to happen today. What remains is today's work. Start with just one item.

@@ -96,3 +96,7 @@ This is an act of trust — trusting that things will come one at a time, and th
 What internal friction fears most is not stronger willpower, better time management, or more self-motivation. What it fears most is a quiet mind — one that looks at one thing at a time, does one thing at a time.
 
 Single-minded focus. That is the best medicine.
+
+## Try This
+
+For the next 25 minutes, work on one thing only — close everything else. When your mind pulls toward another tab or worry, notice it, then return. That noticing-and-returning is the practice.

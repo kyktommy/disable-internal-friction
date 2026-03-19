@@ -114,3 +114,7 @@ The *Xiangzhuan* adds: *"Wind moves above the earth — contemplation. The ancie
 The kings traveled through the land, watching before acting. Observation is not the destination — it is the necessary precondition for wise action.
 
 Hexagram Guan tells us: real power comes from seeing clearly before moving. Observing yourself from above the situation is this kind of *great contemplation* — rising out of your own turbulence to become the one who can see the whole.
+
+## Try This
+
+The next time you feel stuck inside a strong emotion or a looping thought, physically pause — step back, look up — and ask: what is actually happening here, seen from a distance? What would a calm observer notice that you can't see from inside it?

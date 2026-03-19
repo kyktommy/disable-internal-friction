@@ -130,3 +130,7 @@ Real rest is something you actively choose.
 Real beginnings are smaller than you think.
 
 You don't need to do a lot. You just need to do one thing — anything at all.
+
+## Try This
+
+Today, replace one stretch of idle drift with a deliberate small action — something that takes under 15 minutes. It doesn't need to be important. It just needs to be chosen.

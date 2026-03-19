@@ -123,3 +123,7 @@ But the skills you've built, the experience you've gained, the quiet knowledge o
 Stop chasing credit. Just make sure you get paid.
 
 Save your energy for the work that matters — not for applause that may never come.
+
+## Try This
+
+Think of something you contributed recently that went unacknowledged. Name three things you actually gained from doing it — a skill sharpened, a lesson learned, a quiet satisfaction. Those are already yours, regardless of who noticed.

@@ -85,3 +85,7 @@ The question is what you do with it. Do you clamp down to feel more in control �
 Most of the time, it didn't. And the sooner you can feel neutral about that, the more your actual judgment — about direction, priorities, what matters — will be respected.
 
 Because control that's hoarded loses value. Control that's selective and intentional earns it.
+
+## Try This
+
+Write down one thing you've been trying to control this week. Next to it, write whose task it actually is. If it's not yours, see if you can set it down for the rest of today.

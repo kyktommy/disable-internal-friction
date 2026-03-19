@@ -100,3 +100,7 @@ A life where most things feel like challenges is not a life free of difficulty. 
 The problems are not going away. But the drain does not have to come with them.
 
 See it as a challenge. Start there.
+
+## Try This
+
+Think of one task you've been dreading this week. Before you start it, spend 60 seconds asking: what would feel different if you approached this as a challenge to solve rather than a burden to survive? Then start — with that framing.
