@@ -86,4 +86,15 @@ showToc: true
 - Date: use today's date
 - Ensure the zh and en versions are faithful translations of each other, not independent rewrites
 - After writing both files, create them at the correct Hugo content paths
-- Avoid the construction "不是XXX，而是XXX" across all sections — it sounds robotic. Express contrast as a positive statement, a rhetorical question, or spread across two separate sentences
+- Avoid robotic contrast patterns across all sections. This includes "不是XXX，而是XXX", "你以為XXX，但XXX", "聽起來像XXX，但其實XXX", "You think X, but Y", "This sounds like X, but actually Y". State the point directly with simple sentences. If contrast is needed, split it into two separate statements or let it emerge naturally across sentences
+
+## Fine-Tuning Pass — Best-Selling Author Tone
+
+After assembling the full article, do a final tone pass across all sections before writing the files. Rewrite with the voice of a best-selling non-fiction author (think: 蔡康永, Malcolm Gladwell, Mark Manson). Apply these principles:
+
+- **Short sentences hit harder.** Vary rhythm — a long sentence followed by a short one creates punch. One-sentence paragraphs are welcome.
+- **Be concrete, not abstract.** Replace vague concepts with specific scenes, sensory details, or visceral moments the reader can picture.
+- **Cut filler.** Remove hedging ("也許", "可能", "perhaps", "kind of"), throat-clearing openings ("其實", "事實上", "actually", "in fact"), and unnecessary qualifiers. Every word should earn its place.
+- **Sound like a person talking, not an essay.** Use sentence fragments, rhetorical questions, and conversational turns. Read it aloud — if it sounds stiff, rewrite.
+- **One idea per paragraph.** If a paragraph makes two points, split it. White space is a feature.
+- **End sections with a line that lingers.** The last sentence of each section should land — an image, a question, or a quiet truth. Never end on a generic summary.
